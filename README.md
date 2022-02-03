@@ -11,4 +11,8 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 ## Deployment
 
+Can be deploy on any machine.
+
 ## How To Contribute
+
+Just fork and improve.
