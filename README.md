@@ -15,7 +15,7 @@ Can be deploy on any machine.
 
 ## How To Contribute
 
-Just fork and improve.
+Plead fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
