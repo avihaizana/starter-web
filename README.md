@@ -16,3 +16,7 @@ Can be deploy on any machine.
 ## How To Contribute
 
 Just fork and improve.
+
+### Copyright
+
+2014 Git.Training
