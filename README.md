@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Fit and Github
-Addign a line for rebase example
+Addign a line for rebase example, then more changes from myfeature branch too.
 
 ## Introduction
 
