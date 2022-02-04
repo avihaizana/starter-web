@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Fit and Github
+Addign a line for rebase example
 
 ## Introduction
 
